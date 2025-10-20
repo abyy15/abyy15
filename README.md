@@ -23,8 +23,8 @@
 ### ⚙️ Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,python,html,css,js,mysql,git,github,vscode,msoffice,autodesk,ps&s=40" /><br>
-  <small>C++ · C# · Python · HTML · CSS · JavaScript · MySQL · Git · GitHub · VS Code · Office · Fusion 360 · Photoshop</small>
+  <img src="https://skillicons.dev/icons?i=cpp,cs,python,html,css,js,mysql,git,github,vscode,fusion360,ps&s=40" /><br>
+  <small>C++ · C# · Python · HTML · CSS · JavaScript · MySQL · Git · GitHub · VS Code · Fusion 360 · Photoshop</small>
 </p>
 
 ---
