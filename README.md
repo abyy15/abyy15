@@ -24,7 +24,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,cs,python,html,css,js,mysql,git,github,vscode,ps&s=40" /><br>
-  <small>C++ · C# · Python · HTML · CSS · JavaScript · MySQL · Git · GitHub · VS Code · Photoshop</small>
+  <small>C++ ·  C#  ·  Python  ·  HTML  ·  CSS  ·  JavaScript  ·  MySQL  ·  Git  ·  GitHub  ·  VS Code  ·  Photoshop</small>
 </p>
 
 ---
