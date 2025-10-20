@@ -20,7 +20,7 @@
 
 ---
 
-### ⚙️ Tecnologías y herramientas
+### ⚙️ Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,cs,python,html,css,js,mysql,git,github,vscode" /><br>
@@ -38,7 +38,7 @@
 
 ---
 
-### 💌 Conectemos
+### 💌 Contacto
 
 <p align="center">
   <a href="mailto:abriljuanatrinidad@gmail.com">
