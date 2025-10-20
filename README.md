@@ -14,9 +14,9 @@
 
 ### 🌸 Sobre mí
 - 💬 Me considero responsable, organizada y con gran capacidad de trabajo en equipo.  
-- 🌈 Me encanta aprender, afrontar nuevos desafíos y combinar lo técnico con lo creativo.  
-- 🎨 Disfruto el modelado 3D, el diseño y los proyectos de desarrollo como *ChimpocoFight*.  
-- 📚 Actualmente aprendiendo **C# nivel 2** con MaxiPrograma.  
+- 🌈 Me encanta aprender, afrontar nuevos desafíos y combinar lo técnico con lo creativo.
+- ⚙️ Me interesa el desarrollo backend y la lógica de programación, donde puedo aplicar mis buenas bases en estructuras, algoritmos y resolución de problemas.    
+- 📚 Actualmente aprendiendo de **C#, SQL** y demas en la UTN, con agreguado de cursos online.  
 
 ---
 
