@@ -23,7 +23,8 @@
 ### ⚙️ Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,python,html,css,js,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,python,html,css,js,mysql,git,github,vscode" /><br>
+  <b>C++ · C# · Python · HTML · CSS · JavaScript · MySQL · Git · GitHub · VS Code</b>
 </p>
 
 ---
@@ -31,11 +32,9 @@
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=bf5fff&icon_color=bf5fff" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=bf5fff" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abyy15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=bf5fff&icon_color=bf5fff" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abyy15&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=bf5fff" height="150" />
 </p>
-
-*(Reemplazá `TU_USUARIO` por tu nombre de usuario de GitHub)*  
 
 ---
 
@@ -54,17 +53,6 @@
   <a href="https://wa.me/5491126863119">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-</p>
-
----
-
-### 🕹️ Frase que me representa
-> *“El código es mi forma de crear mundos.”* 💫
-
----
-
-<p align="center">
-  <img src="https://i.imgur.com/dYhM3kP.gif" width="400px" alt="pixel girl coding gif">
 </p>
 
 ---
