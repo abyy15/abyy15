@@ -16,7 +16,7 @@
 - 💬 Me considero responsable, organizada y con gran capacidad de trabajo en equipo.  
 - 🌈 Me encanta aprender, afrontar nuevos desafíos y combinar lo técnico con lo creativo.
 - ⚙️ Me interesa el desarrollo backend y la lógica de programación, donde puedo aplicar mis buenas bases en estructuras, algoritmos y resolución de problemas.    
-- 📚 Actualmente aprendiendo de **C#, SQL** y demas en la UTN, con agreguado de cursos online.  
+- 📚 Actualmente aprendiendo de **C#, SQL** y demas en la UTN, con agregado de cursos online.  
 
 ---
 
