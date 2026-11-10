@@ -29,15 +29,6 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abyy15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=bf5fff&icon_color=bf5fff" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abyy15&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=bf5fff" height="150" />
-</p>
-
----
-
 ### 💌 Contacto
 
 <p align="center">
